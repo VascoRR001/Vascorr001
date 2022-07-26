@@ -1,7 +1,7 @@
-
+![MasterHead](https://www.bestagencies.com/wp-content/uploads/2014/01/desk.gif)
 <h1 align="center">Hi 👋, I'm Vasco Ribeiro</h1>
 <h3 align="center">A young but determined person to learn more about Web Development and new Technologies</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://godigitallaagencia.com/wp-content/uploads/2020/06/web-developer.gif">
 
 - 🔭 I’m currently working on [API's](https://github.com/VascoRR001/ProjetoFinalLab)
 
