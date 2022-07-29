@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vascao2001@gmail.com**
 
-- 📄 Know about my experiences I recently graduated in Computer Engineering at the University of Trás-os-Montes and Alto Douro (2019-2022). I am a person who likes to do sports, gaming and above all ready to learn new things about the world of computing.I recently graduated in Computer Engineering at the University of Trás-os-Montes and Alto Douro (2019-2022). I am a person who likes to do sports, gaming and above all ready to learn new things about the world of computing.
+- 📄 Know about my experiences I recently graduated in Computer Engineering at the University of Trás-os-Montes and Alto Douro (2019-2022). I am a person who likes to do sports, gaming and above all ready to learn new things about the world of computing.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
